@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div className='text-2xl'>App</div>
+    <div className='text-2xl origin-center'>App</div>
   )
 }
 
