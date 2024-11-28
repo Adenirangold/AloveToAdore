@@ -1,9 +1,12 @@
 import React from 'react'
+import Hero from './components/Hero'
 
 function App() {
   return (
-    <div className='text-2xl origin-center'>App</div>
-  )
+<main className='relative min-h-screen w-screen overflow-x-hidden'>
+  <Hero></Hero>
+</main>
+    )
 }
 
 export default App
